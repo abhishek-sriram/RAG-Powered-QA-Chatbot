@@ -1,4 +1,5 @@
 # RAG based QA Chatbot
+![Project Banner](https://github.com/abhishek-sriram/RAG-based-QA-Chatbot/blob/main/RAG%20based%20QA%20Chatbot/bot_img.png)
 
 ## Project Overview
 The project involved building a bot that leveraged LangChain and a large language model (LLM) to answer questions based on content from loaded PDF documents.
