@@ -1,0 +1,4 @@
+gradio
+ibm-watsonx-ai
+langchain
+langchain-community
