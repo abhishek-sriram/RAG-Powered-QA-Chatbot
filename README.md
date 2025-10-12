@@ -1,4 +1,4 @@
-# RAG based QA Chatbot
+# RAG Powered QA Chatbot
 ![Project Banner](https://github.com/abhishek-sriram/RAG-based-QA-Chatbot/blob/main/RAG%20based%20QA%20Chatbot/bot_img.png)
 
 ## Project Overview
